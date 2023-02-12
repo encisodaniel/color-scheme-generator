@@ -62,6 +62,7 @@ button {
     padding: 13px 11px;
     height: 42px;
     font-size: 12px;
+    cursor: pointer;
 }
 
 input {
